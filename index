@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JohnnyGanYu</title>
+    <style>
+      p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 100px;
+        margin-inline-end: 100px;
+        color: blue;
+      }
+      b {
+        font-weight: 1000;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!--
+    <img
+      src="https://imgtu.com/uploads/89ws61m3/pasted-2025-07-11T09-19-35-871Z.jpeg"
+      alt="头像"
+      width="300"
+      height="300"
+    />
+    -->
+    <p>你好，世界，我是<b>Johnny Gan Yu</b></p>
+  </body>
+</html>
